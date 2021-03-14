@@ -7,5 +7,7 @@ public class Testclass {
 	private String abc;
 	
 	private String cde;
+	
+	private String abcdef;
 
 }
