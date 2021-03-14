@@ -9,5 +9,7 @@ public class Testclass {
 	private String cde;
 	
 	private String abcdef;
+	
+	private String ddd;
 
 }
