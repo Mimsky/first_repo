@@ -8,7 +8,7 @@ public class Testclass {
 	
 	private String cde;
 	
-	private String def;
+	private String deffasdfa;
 	
 	private String ddd;
 
