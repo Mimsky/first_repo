@@ -12,6 +12,6 @@ public class Testclass {
 	
 	private String ddd;
 	
-	private int dddd;
+	private int dddsdfasdd;
 
 }
