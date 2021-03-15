@@ -11,5 +11,7 @@ public class Testclass {
 	private String deffasdfa;
 	
 	private String ddd;
+	
+	private int dddd;
 
 }
